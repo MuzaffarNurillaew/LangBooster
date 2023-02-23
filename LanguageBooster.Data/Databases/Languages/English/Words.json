@@ -1,0 +1,173 @@
+[
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "qo'rqmoq",
+    "ChosenLanguageTranslation": "afraid",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/afraid",
+    "Id": 1,
+    "CreatedAt": "2023-02-23T08:37:19.9446782Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "rozi bo'lmoq",
+    "ChosenLanguageTranslation": "agree",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/agree",
+    "Id": 2,
+    "CreatedAt": "2023-02-23T08:37:44.3756472Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "jahli chiqqan",
+    "ChosenLanguageTranslation": "angry",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/angry",
+    "Id": 3,
+    "CreatedAt": "2023-02-23T08:37:54.3437478Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "yetib kelmoq",
+    "ChosenLanguageTranslation": "arrive",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/arrive",
+    "Id": 4,
+    "CreatedAt": "2023-02-23T08:38:05.2952966Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "hujum qilmoq",
+    "ChosenLanguageTranslation": "attack",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/attack",
+    "Id": 5,
+    "CreatedAt": "2023-02-23T08:38:14.3145418Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "pasti",
+    "ChosenLanguageTranslation": "bottom",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/bottom",
+    "Id": 6,
+    "CreatedAt": "2023-02-23T08:38:45.6293386Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "aqlli",
+    "ChosenLanguageTranslation": "clever",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/clever",
+    "Id": 7,
+    "CreatedAt": "2023-02-23T08:38:50.0730106Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "yovuz",
+    "ChosenLanguageTranslation": "cruel",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/cruel",
+    "Id": 8,
+    "CreatedAt": "2023-02-23T08:39:01.1321999Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "nihoyat",
+    "ChosenLanguageTranslation": "finally",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/finally",
+    "Id": 9,
+    "CreatedAt": "2023-02-23T08:39:11.8175968Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "yashirmoq",
+    "ChosenLanguageTranslation": "hide",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/hide",
+    "Id": 10,
+    "CreatedAt": "2023-02-23T08:39:20.4220415Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "ov qilmoq",
+    "ChosenLanguageTranslation": "hunt",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/hunt",
+    "Id": 11,
+    "CreatedAt": "2023-02-23T08:39:29.0767688Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "ko'p",
+    "ChosenLanguageTranslation": "lot",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/lot",
+    "Id": 12,
+    "CreatedAt": "2023-02-23T08:39:40.3543345Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "o'rtasi",
+    "ChosenLanguageTranslation": "middle",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/middle",
+    "Id": 13,
+    "CreatedAt": "2023-02-23T08:39:50.9564402Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "lahza",
+    "ChosenLanguageTranslation": "moment",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/moment",
+    "Id": 14,
+    "CreatedAt": "2023-02-23T08:39:57.3286524Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "xursand",
+    "ChosenLanguageTranslation": "pleased",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/pleased",
+    "Id": 15,
+    "CreatedAt": "2023-02-23T08:40:08.4479519Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "vada bermoq",
+    "ChosenLanguageTranslation": "promise",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/promise",
+    "Id": 16,
+    "CreatedAt": "2023-02-23T08:40:22.5078289Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "javob bermoq",
+    "ChosenLanguageTranslation": "reply",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/reply",
+    "Id": 17,
+    "CreatedAt": "2023-02-23T08:40:31.1295367Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "xavfsiz",
+    "ChosenLanguageTranslation": "safe",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/safe",
+    "Id": 18,
+    "CreatedAt": "2023-02-23T08:40:41.5265104Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 1,
+    "Uzbek": "hiyla",
+    "ChosenLanguageTranslation": "trick",
+    "UrlToCambridgeDictionary": "https://dictionary.cambridge.org/dictionary/english/trick",
+    "Id": 19,
+    "CreatedAt": "2023-02-23T08:40:51.7160574Z",
+    "LastUpdatedAt": null
+  }
+]

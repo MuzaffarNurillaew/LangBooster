@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Uzbek",
+    "LanguagePackPath": "D:\\Projects\\LanguageBooster\\LanguageBooster.Data\\Databases\\Languages\\Uzbek",
+    "Id": 0,
+    "CreatedAt": "2023-02-23T04:16:11.7744933Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "Name": "English",
+    "LanguagePackPath": "D:\\Projects\\LanguageBooster\\LanguageBooster.Data\\Databases\\Languages\\English",
+    "Id": 1,
+    "CreatedAt": "2023-02-23T04:16:40.1750648Z",
+    "LastUpdatedAt": null
+  }
+]

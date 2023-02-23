@@ -1,0 +1,22 @@
+[
+  {
+    "LanguageId": 1,
+    "OwnerId": 0,
+    "Name": "fitgirl.mp3",
+    "FileLocation": "D:\\Projects\\LanguageBooster\\LanguageBooster.Data\\Databases\\Podcasts\\fitgirl.mp3",
+    "Description": null,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T07:57:17.8451988Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "LanguageId": 1,
+    "OwnerId": 0,
+    "Name": "falling.mp4",
+    "FileLocation": "D:\\Projects\\LanguageBooster\\LanguageBooster.Data\\Databases\\Podcasts\\falling.mp4",
+    "Description": null,
+    "Id": 2,
+    "CreatedAt": "2023-02-23T07:57:44.3545696Z",
+    "LastUpdatedAt": null
+  }
+]

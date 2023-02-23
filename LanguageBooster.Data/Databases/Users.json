@@ -1,0 +1,20 @@
+[
+  {
+    "FirstName": "Muzaffar",
+    "LastName": "Nurillayev",
+    "Username": "muzaf",
+    "Password": "0110",
+    "NativeLanguageId": 0,
+    "NewLanguageId": 1,
+    "Details": {
+      "NumberOfWordsPerDay": 5,
+      "FavouriteWordIds": [],
+      "FavouritePodcastIds": [
+        1
+      ]
+    },
+    "Id": 1,
+    "CreatedAt": "2023-02-23T07:33:45.5813643Z",
+    "LastUpdatedAt": null
+  }
+]

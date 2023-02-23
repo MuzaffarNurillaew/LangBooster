@@ -1,0 +1,173 @@
+[
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "qo'rqmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T08:37:20.0049172Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "rozi bo'lmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 2,
+    "CreatedAt": "2023-02-23T08:37:44.3764293Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "jahli chiqqan",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 3,
+    "CreatedAt": "2023-02-23T08:37:54.3458225Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "yetib kelmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 4,
+    "CreatedAt": "2023-02-23T08:38:05.2969538Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "hujum qilmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 5,
+    "CreatedAt": "2023-02-23T08:38:14.3158173Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "pasti",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 6,
+    "CreatedAt": "2023-02-23T08:38:45.6315034Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "aqlli",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 7,
+    "CreatedAt": "2023-02-23T08:38:50.0744923Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "yovuz",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 8,
+    "CreatedAt": "2023-02-23T08:39:01.1333915Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "nihoyat",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 9,
+    "CreatedAt": "2023-02-23T08:39:11.8181739Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "yashirmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 10,
+    "CreatedAt": "2023-02-23T08:39:20.4250527Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "ov qilmoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 11,
+    "CreatedAt": "2023-02-23T08:39:29.0782308Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "ko'p",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 12,
+    "CreatedAt": "2023-02-23T08:39:40.3562096Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "o'rtasi",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 13,
+    "CreatedAt": "2023-02-23T08:39:50.958145Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "lahza",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 14,
+    "CreatedAt": "2023-02-23T08:39:57.3301085Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "xursand",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 15,
+    "CreatedAt": "2023-02-23T08:40:08.449681Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "vada bermoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 16,
+    "CreatedAt": "2023-02-23T08:40:22.5095816Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "javob bermoq",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 17,
+    "CreatedAt": "2023-02-23T08:40:31.1310529Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "xavfsiz",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 18,
+    "CreatedAt": "2023-02-23T08:40:41.528082Z",
+    "LastUpdatedAt": null
+  },
+  {
+    "ChosenLanguageId": 0,
+    "Uzbek": "hiyla",
+    "ChosenLanguageTranslation": null,
+    "UrlToCambridgeDictionary": null,
+    "Id": 19,
+    "CreatedAt": "2023-02-23T08:40:51.7179662Z",
+    "LastUpdatedAt": null
+  }
+]
